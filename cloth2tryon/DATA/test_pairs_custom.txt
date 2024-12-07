@@ -1,0 +1,3 @@
+00071_00.jpg test_generated_image_processed1.jpg 1
+00071_00.jpg test_generated_image_processed2.jpg 2
+00071_00.jpg test_generated_image_processed3.jpg 3
